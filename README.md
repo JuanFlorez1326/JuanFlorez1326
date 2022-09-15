@@ -10,6 +10,5 @@
 
 
 ## Contact
-![LinkedIn](https://cdn-icons-png.flaticon.com/512/3536/3536505.png)
 
 ## Skills
