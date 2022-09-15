@@ -5,7 +5,7 @@
 - Learning every day more about frontend and backend development.
 - My projects are available at [https://juan02.netlify.app/](https://juan02.netlify.app/)
 - My forte in development is **.NET** and **React**.
-- Contáctame en [juanks339@gmail.com](mailto:juanks339@gmail.com)
+- Contact me at [juanks339@gmail.com](mailto:juanks339@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
 
