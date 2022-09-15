@@ -10,6 +10,6 @@
 
 
 ## Contact
-[](https://www.flaticon.es/icono-gratis/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=search)
+<a href="https://www.linkedin.com/in/juanflorez1326/"><img src="https://www.flaticon.es/icono-gratis/linkedin_3536505?term=linkedin&page=1&position=1&page=1&position=1&related_id=3536505&origin=search" alt="LinkeIn"/></a>
 
 ## Skills
