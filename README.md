@@ -10,6 +10,6 @@
 
 
 ## Contact
-<a href="https://www.linkedin.com/in/juanflorez1326/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkeIn"/></a>
+![LinkedIn](https://cdn-icons-png.flaticon.com/512/3536/3536505.png)
 
 ## Skills
