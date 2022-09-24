@@ -9,6 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
 
+## Frontend Technologies
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
 
 
