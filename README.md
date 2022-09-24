@@ -65,8 +65,7 @@
 ![SonarCloud](https://img.shields.io/static/v1?style=for-the-badge&message=SonarCloud&color=F3702A&logo=SonarCloud&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
-
+## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanflorez1326&show_icons=true&locale=en&layout=compact" alt="juanflorez1326" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanflorez1326&show_icons=true&locale=en" alt="juanflorez1326" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanflorez1326&" alt="juanflorez1326" /></p>
