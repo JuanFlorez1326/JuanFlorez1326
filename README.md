@@ -10,6 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
 
 ## Contact me
+<a href="https://twitter.com/juanfloez1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juanfloez1326" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juanflorez1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanflorez1326" height="30" width="40" /></a>
+<a href="https://fb.com/juanflorez13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanflorez13" height="30" width="40" /></a>
+<a href="https://instagram.com/juanflorez13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanflorez13" height="30" width="40" /></a>
+</p>
 
 
 ## Frontend Technologies
@@ -38,10 +43,12 @@
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 
+
 ## Databases
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
+
 
 ## Deployments
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
@@ -51,8 +58,10 @@
 ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
 ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
 
+
 ## Mobile Technologies
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
+
 
 ## Other Technologies And Tools
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
@@ -66,6 +75,7 @@
 ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 ![SonarCloud](https://img.shields.io/static/v1?style=for-the-badge&message=SonarCloud&color=F3702A&logo=SonarCloud&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+
 
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanflorez1326&show_icons=true&locale=en&layout=compact" alt="juanflorez1326" /></p>
