@@ -64,7 +64,6 @@
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
-![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
 ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
