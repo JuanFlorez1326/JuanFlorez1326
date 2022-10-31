@@ -4,6 +4,7 @@
 - With motivation to continue perfecting my skills and grow professionally.
 - Learning every day more about frontend and backend development.
 - My projects are available at [https://juan.pages.dev/](https://juan.pages.dev/)
+- My development strength is **Node**, ***.NET** and **React**.
 - My forte in development is **.NET** and **React**.
 - Contact me at [juanks339@gmail.com](mailto:juanks339@gmail.com)
 
