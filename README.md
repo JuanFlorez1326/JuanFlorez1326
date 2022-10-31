@@ -5,7 +5,6 @@
 - Learning every day more about frontend and backend development.
 - My projects are available at [https://juan.pages.dev/](https://juan.pages.dev/)
 - My development strength is **Node**, ***.NET** and **React**.
-- My forte in development is **.NET** and **React**.
 - Contact me at [juanks339@gmail.com](mailto:juanks339@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
