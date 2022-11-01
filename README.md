@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
+
 <h1 align="center">Hi 👋, I'm Juan Florez</h1>
 <h3 align="center">I am a junior programmer from Colombia.</h3>
 
@@ -7,7 +9,6 @@
 - My development strength is **Node**, **.NET** and **React**.
 - Contact me at [juanks339@gmail.com](mailto:juanks339@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
 
 ## Contact me
 <a href="https://twitter.com/juanflorez1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juanfloez1326" height="30" width="40" /></a>
