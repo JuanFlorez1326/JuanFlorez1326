@@ -16,6 +16,7 @@
 <a href="https://instagram.com/juanflorez13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanflorez13" height="30" width="40" /></a>
 </p>
 
+<div align="center">
 
 ## Frontend Technologies
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -75,3 +76,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanflorez1326&show_icons=true&locale=en&layout=compact" alt="juanflorez1326" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanflorez1326&show_icons=true&locale=en" alt="juanflorez1326" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanflorez1326&" alt="juanflorez1326" /></p>
+
+</div>
