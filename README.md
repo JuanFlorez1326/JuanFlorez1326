@@ -69,6 +69,6 @@
 
 ## Github Stats
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFlorez1326&theme=blue-green" alt="juanflorez1326" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanFlorez1326&theme=blue-green" alt="juanflorez1326" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFlorez1326&theme=blue-green" alt="juanflorez1326" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanFlorez1326&theme=blue-green" alt="juanflorez1326" />
 </div>
