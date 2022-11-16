@@ -70,5 +70,4 @@
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFlorez1326&theme=blue-green" alt="juanflorez1326" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanFlorez1326&theme=blue-green" alt="juanflorez1326" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanflorez1326&show_icons=true&locale=en" alt="juanflorez1326" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanflorez1326&" alt="juanflorez1326" /></p>
