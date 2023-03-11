@@ -8,7 +8,7 @@
 - My projects are available at [https://juan.pages.dev/](https://juan.pages.dev/)
 - My development strength is **Node**, **NestJs** and **Angular**.
 - Contact me at [juanks339@gmail.com](mailto:juanks339@gmail.com)
-- I'm currently working at Latinia | Remote
+- I'm currently working at Latinia - Spain | Remote
 
 ## Contact me
 
