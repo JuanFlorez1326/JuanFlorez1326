@@ -61,11 +61,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
-</div>
-
 ## Github Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanFlorez1326&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFlorez1326&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 </div>
