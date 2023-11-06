@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Florez</h1>
-<h3 align="center">I am a Junior Programmer from Colombia.</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - With motivation to continue perfecting my skills and grow professionally.
 - Learning every day more about frontend and backend development.
