@@ -11,7 +11,6 @@
 ## Contact me
 
 <a href="https://linkedin.com/in/juanflorez1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanflorez1326" height="30" width="40" /></a>
-<a href="https://fb.com/juanflorez13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanflorez13" height="30" width="40" /></a>
 <a href="https://instagram.com/juanflorez13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanflorez13" height="30" width="40" /></a>
 
 </p>
