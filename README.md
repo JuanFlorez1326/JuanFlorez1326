@@ -5,8 +5,7 @@
 
 - With motivation to continue perfecting my skills and grow professionally.
 - Learning every day more about frontend and backend development.
-- My projects are available at [https://juan.pages.dev/](https://juan.pages.dev/)
-- My development strength is **Node**, **NestJs** and **Angular**.
+- My projects are available at [https://juan.pages.dev](https://juan.pages.dev)
 - Contact me at [juanks339@gmail.com](mailto:juanks339@gmail.com)
 
 ## Contact me
