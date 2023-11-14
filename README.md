@@ -42,20 +42,16 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 
 ## Cloud Computing
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
-![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
 
 ## Other Technologies And Tools
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
 ![GitKraken](https://img.shields.io/static/v1?style=for-the-badge&message=GitKraken&color=179287&logo=GitKraken&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
