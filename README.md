@@ -21,8 +21,8 @@
 
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
-![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=ReactiveX&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
 ![NgRx](https://img.shields.io/static/v1?style=for-the-badge&message=NgRx&color=BA2BD2&logo=NgRx&logoColor=FFFFFF&label=)
+![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=ReactiveX&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
 
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
