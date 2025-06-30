@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanflorez1326&label=Profile%20views&color=0e75b6&style=flat" alt="juanflorez1326" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Florez</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - With motivation to continue perfecting my skills and grow professionally.
 - Learning every day more about frontend and backend development.
@@ -19,10 +19,11 @@
 
 ## Frontend Technologies
 
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 ![NgRx](https://img.shields.io/static/v1?style=for-the-badge&message=NgRx&color=BA2BD2&logo=NgRx&logoColor=FFFFFF&label=)
 ![ReactiveX](https://img.shields.io/static/v1?style=for-the-badge&message=ReactiveX&color=B7178C&logo=ReactiveX&logoColor=FFFFFF&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
@@ -32,10 +33,10 @@
 
 ## Backend Technologies
 
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF)
 
 ## Databases
 
